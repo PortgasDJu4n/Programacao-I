@@ -46,10 +46,3 @@
    - **"Inocente"** → menos de 2 respostas positivas
 
 ---
-
-## ✅ Objetivo da Lista
-
-Praticar o uso de estruturas de decisão para tornar os programas mais inteligentes e capazes de lidar com situações variadas com base nas entradas fornecidas pelo usuário.
-
----
-
